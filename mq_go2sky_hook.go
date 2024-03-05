@@ -1,4 +1,4 @@
-package mq_go2sky_plugin
+package mq_go2sky_hook
 
 import (
 	"context"
